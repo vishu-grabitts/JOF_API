@@ -1,0 +1,191 @@
+﻿using System;
+using POD.Models;
+using System.Data.SqlClient;
+using System.Net;
+using System.IO;
+using System.Text;
+using System.Web.Script.Serialization;
+using System.Collections.Generic;
+using System.Data;
+using System.Web;
+
+namespace POD.DAL
+{
+    public class NotificationDLL : BaseClass
+    {
+        public bool SendnotificationByToken(string CompanyCode, Notification oNotification)
+        {
+            try
+            {
+                string Result = string.Empty;
+                var data = new
+                {
+                    to = oNotification.tokenno,
+                    collapse_key = "type_a",
+                    content_available = true,
+                    priority = "high",
+                    notification = new
+                    {
+                        body = oNotification.body,
+                        title = oNotification.title.Replace(":", ""),
+                        sound = "default",
+                        show_in_foreground = true,
+                        icon = "https://crm.merinoindia.com:333/Images/!e6UJ9A003XECLogo Upnormal 48mdpi-03_TestKRE_24102018 011741.png"
+                    },
+                    data = new
+                    {
+                        body = oNotification.body,
+                        title = oNotification.title.Replace(":", ""),
+                        sound = "default",
+                        volume = "3.21.15",
+                        contents = "http://www.news-magazine.com/world-week/21659772"
+                    }
+                };
+                SendNotification(data);
+
+                oNotification.t_monm = Notification.NotificationType.MemberEnrolment.ToString();
+                InsertNotification(CompanyCode, oNotification);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+                return false;
+            }
+        }
+
+        public bool SendnotificationByUser(string CompanyCode, Notification oNotification)
+        {
+            try
+            {
+                SqlConnection con = new SqlConnection(constring);
+                StringBuilder sb = new StringBuilder();
+                DataTable dtData = new DataTable();
+                sb.Append(" Select T1.t_tokn,T2.t_mbid from ttcclp106" + CompanyCode + " T1 INNER JOIN ttcclp105" + CompanyCode + " T2 ON T2.t_usid=T1.t_usid ");
+                sb.Append(" WHERE (T2.t_mbid =  @t_mbid) OR (CAST(T2.t_usid AS VARCHAR(10)) =  @t_mbid)");
+
+                using (SqlCommand cmd = new SqlCommand(sb.ToString(), con))
+                {
+                    cmd.Parameters.AddWithValue("@t_mbid", oNotification.t_mbid);
+                    SqlDataAdapter sd = new SqlDataAdapter(cmd);
+                    con.Open();
+                    sd.Fill(dtData);
+                    con.Close();
+                }
+                if (dtData.Rows.Count > 0)
+                {
+                    oNotification.tokenno = dtData.Rows[0]["t_tokn"].ToString();
+                    oNotification.t_mbid = dtData.Rows[0]["t_mbid"].ToString();
+
+                    string Result = string.Empty;
+                    var data = new
+                    {
+                        to = oNotification.tokenno,
+                        collapse_key = "type_a",
+                        content_available = true,
+                        priority = "high",
+                        notification = new
+                        {
+                            body = oNotification.body,
+                            title = oNotification.title.Replace(":", ""),
+                            sound = "default",
+                            show_in_foreground = true
+                        },
+                        data = new
+                        {
+                            body = oNotification.body,
+                            title = oNotification.title.Replace(":", ""),
+                            sound = "default",
+                            volume = "3.21.15"
+                        }
+                    };
+                    SendNotification(data);
+
+                    oNotification.t_monm = Notification.NotificationType.MemberEnrolment.ToString();
+                    InsertNotification(CompanyCode, oNotification);
+
+                }
+                return true;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+                return false;
+            }
+        }
+        private void SendNotification(object data)
+        {
+            var serializer = new JavaScriptSerializer();
+            var json = serializer.Serialize(data);
+            Byte[] byteArray = Encoding.UTF8.GetBytes(json);
+            SendNotification(byteArray);
+        }
+        private void SendNotification(Byte[] byteArray)
+        {
+            try
+            {
+                string Server_API_Key = string.Empty;
+                string SenderID = string.Empty;
+                Server_API_Key = System.Configuration.ConfigurationManager.AppSettings["Server_API_Key"].ToString();
+                SenderID = System.Configuration.ConfigurationManager.AppSettings["SenderID"].ToString();
+                WebRequest tRequest = WebRequest.Create("https://fcm.googleapis.com/fcm/send");
+                tRequest.Method = "post";
+                //serverKey - Key from Firebase cloud messaging server  
+                tRequest.Headers.Add(string.Format("Authorization: key={0}", Server_API_Key));
+                //Sender Id - From firebase project setting  
+                tRequest.Headers.Add(string.Format("Sender: id={0}", SenderID));
+                tRequest.ContentType = "application/json";
+                // tRequest.ContentType = " application/x-www-form-urlencoded;charset=UTF-8";
+                tRequest.ContentLength = byteArray.Length;
+                Stream dataStream = tRequest.GetRequestStream();
+                dataStream.Write(byteArray, 0, byteArray.Length);
+                //dataStream.Close();
+
+                WebResponse tResponse = tRequest.GetResponse();
+                dataStream = tResponse.GetResponseStream();
+                StreamReader tReader = new StreamReader(dataStream);
+                String sResponseFromServer = tReader.ReadToEnd();
+                string str = sResponseFromServer;
+                tReader.Close();
+                dataStream.Close();
+                tResponse.Close();
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        private void Sendsms(Notification objNotification)
+        {
+            // SMSified API endpoint.
+            string webTarget = "https://api.smsified.com/v1/smsmessaging/outbound/{0}/requests";
+
+            // Parameters to send with API request.
+            string webPost = "address={0}&message={1}";
+
+            // SMSified credentials.
+            string userName = "";
+            string password = "";
+            string senderNumber = "";
+
+            // Create new HTTP request.
+            string url = String.Format(webTarget, senderNumber);
+            HttpWebRequest req = (HttpWebRequest)WebRequest.Create(url);
+            req.Method = "POST";
+            req.ContentType = "application/x-www-form-urlencoded";
+            byte[] postData = Encoding.ASCII.GetBytes(String.Format(webPost, "14075551212", "This is a test from C#"));
+            req.ContentLength = postData.Length;
+
+            // Set HTTP authorization header.
+            string authInfo = userName + ":" + password;
+            authInfo = Convert.ToBase64String(Encoding.Default.GetBytes(authInfo));
+            req.Headers["Authorization"] = "Basic " + authInfo;
+
+            // Send HTTP request.
+            Stream PostStream = req.GetRequestStream();
+            PostStream.Write(postData, 0, postData.Length);
+            HttpWebResponse res = (HttpWebResponse)req.GetResponse();
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19dd5f4f-b6ef-4181-bf1e-26a80fbd7742": {
+      "ProjectGuid": "19dd5f4f-b6ef-4181-bf1e-26a80fbd7742",
+      "DisplayName": "POD.DAL",
+      "ColorIndex": 0
+    },
+    "db1ad590-56fe-4318-aa2f-c9be36cdb366": {
+      "ProjectGuid": "db1ad590-56fe-4318-aa2f-c9be36cdb366",
+      "DisplayName": "PODWebAPI",
+      "ColorIndex": 1
+    },
+    "dd8fb23b-2435-4e3f-b9e9-83043c3977fb": {
+      "ProjectGuid": "dd8fb23b-2435-4e3f-b9e9-83043c3977fb",
+      "DisplayName": "POD.Logics",
+      "ColorIndex": 2
+    },
+    "e64cb2d1-ec27-4c01-8e1e-b78ba2cc75e9": {
+      "ProjectGuid": "e64cb2d1-ec27-4c01-8e1e-b78ba2cc75e9",
+      "DisplayName": "POD.Models",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

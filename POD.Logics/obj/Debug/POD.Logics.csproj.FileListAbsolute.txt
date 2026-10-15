@@ -1,0 +1,341 @@
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\bin\Debug\POD.Logics.dll
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\bin\Debug\POD.Logics.pdb
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\bin\Debug\POD.DAL.dll
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\bin\Debug\POD.Models.dll
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\bin\Debug\POD.DAL.pdb
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\bin\Debug\POD.Models.pdb
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\obj\Debug\POD.Logics.csprojResolveAssemblyReference.cache
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\obj\Debug\POD.Logics.dll
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Logics\obj\Debug\POD.Logics.pdb
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\bin\Debug\POD.Logics.dll
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\bin\Debug\POD.Logics.pdb
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\bin\Debug\POD.DAL.dll
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\bin\Debug\POD.Models.dll
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\bin\Debug\POD.DAL.pdb
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\bin\Debug\POD.Models.pdb
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\obj\Debug\POD.Logics.csprojAssemblyReference.cache
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\obj\Debug\POD.Logics.csproj.CopyComplete
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\obj\Debug\POD.Logics.dll
+D:\POD\PODWebAPI_15feb\PODWebAPI\POD.Logics\obj\Debug\POD.Logics.pdb
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\bin\Debug\POD.Logics.dll
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\bin\Debug\POD.Logics.pdb
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\bin\Debug\POD.DAL.dll
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\bin\Debug\POD.Models.dll
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\bin\Debug\POD.DAL.pdb
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\bin\Debug\POD.Models.pdb
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\obj\Debug\POD.Logics.csprojAssemblyReference.cache
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\obj\Debug\POD.Logics.csproj.CopyComplete
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\obj\Debug\POD.Logics.dll
+D:\Mohan\Project\Sandeep\PODWebAPIRadix\POD.Logics\obj\Debug\POD.Logics.pdb
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\POD.Logics.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\POD.Logics.pdb
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\POD.DAL.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\POD.Models.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\SendGrid.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\SendGrid.SmtpApi.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\SendGridMail.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\POD.DAL.pdb
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\POD.Models.pdb
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.xml
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.AssemblyReference.cache
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.CopyComplete
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\obj\Debug\POD.Logics.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Logics\obj\Debug\POD.Logics.pdb
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.AssemblyReference.cache
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.dll
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.pdb
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.Logics.dll
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.Logics.pdb
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.dll
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.DAL.dll
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.Models.dll
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.DAL.pdb
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.Models.pdb
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.xml
+D:\WorkPlace\drive-download-20220929T144747Z-001 1\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.Up2Date
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.Logics.dll
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.Logics.pdb
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.DAL.dll
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.Models.dll
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.DAL.pdb
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\POD.Models.pdb
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.AssemblyReference.cache
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.Up2Date
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.dll
+C:\Users\sushr\Downloads\PODWebApi_20220925 (3)\PODWebApi_20220925\PODWebApi\POD.Logics\obj\Debug\POD.Logics.pdb
+D:\PODWebApi\POD.Logics\bin\Debug\POD.Logics.dll.config
+D:\PODWebApi\POD.Logics\bin\Debug\POD.Logics.dll
+D:\PODWebApi\POD.Logics\bin\Debug\POD.Logics.pdb
+D:\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.dll
+D:\PODWebApi\POD.Logics\bin\Debug\POD.DAL.dll
+D:\PODWebApi\POD.Logics\bin\Debug\POD.Models.dll
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Memory.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Text.Json.dll
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Buffers.dll
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Text.Encodings.Web.dll
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Formats.Asn1.dll
+D:\PODWebApi\POD.Logics\bin\Debug\System.Numerics.Vectors.dll
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PODWebApi\POD.Logics\bin\Debug\POD.DAL.pdb
+D:\PODWebApi\POD.Logics\bin\Debug\POD.DAL.dll.config
+D:\PODWebApi\POD.Logics\bin\Debug\POD.Models.pdb
+D:\PODWebApi\POD.Logics\bin\Debug\POD.Models.dll.config
+D:\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.xml
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Memory.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Text.Json.xml
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Buffers.xml
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Text.Encodings.Web.xml
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Formats.Asn1.xml
+D:\PODWebApi\POD.Logics\bin\Debug\System.Numerics.Vectors.xml
+D:\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.AssemblyReference.cache
+D:\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+D:\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.Up2Date
+D:\PODWebApi\POD.Logics\obj\Debug\POD.Logics.dll
+D:\PODWebApi\POD.Logics\obj\Debug\POD.Logics.pdb
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.Logics.dll.config
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.Logics.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.Logics.pdb
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.DAL.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.Models.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Memory.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Text.Json.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Buffers.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Text.Encodings.Web.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Formats.Asn1.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Numerics.Vectors.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.DAL.pdb
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.DAL.dll.config
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.Models.pdb
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\POD.Models.dll.config
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Newtonsoft.Json.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Memory.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Text.Json.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Buffers.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Text.Encodings.Web.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Formats.Asn1.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\System.Numerics.Vectors.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.AssemblyReference.cache
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\obj\Debug\POD.Logics.csproj.Up2Date
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\obj\Debug\POD.Logics.dll
+C:\ONS_CODE\POSJOFV2\PODWebApi 1\PODWebApi\POD.Logics\obj\Debug\POD.Logics.pdb
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.Logics.dll.config
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.Logics.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.Logics.pdb
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Newtonsoft.Json.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.DAL.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.Models.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Memory.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Text.Json.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Buffers.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Text.Encodings.Web.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Formats.Asn1.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Numerics.Vectors.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.DAL.pdb
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.DAL.dll.config
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.Models.pdb
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\POD.Models.dll.config
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Newtonsoft.Json.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Memory.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Text.Json.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Buffers.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Text.Encodings.Web.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Formats.Asn1.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\System.Numerics.Vectors.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\obj\Debug\POD.Logics.csproj.AssemblyReference.cache
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\obj\Debug\POD.Logics.csproj.Up2Date
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\obj\Debug\POD.Logics.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\obj\Debug\POD.Logics.pdb
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\SendGrid.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\SendGrid.SmtpApi.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Logics\bin\Debug\SendGridMail.dll
+D:\PODJOF\POD.Logics\bin\Debug\POD.Logics.dll.config
+D:\PODJOF\POD.Logics\bin\Debug\POD.Logics.dll
+D:\PODJOF\POD.Logics\bin\Debug\POD.Logics.pdb
+D:\PODJOF\POD.Logics\bin\Debug\Newtonsoft.Json.dll
+D:\PODJOF\POD.Logics\bin\Debug\POD.DAL.dll
+D:\PODJOF\POD.Logics\bin\Debug\POD.Models.dll
+D:\PODJOF\POD.Logics\bin\Debug\SendGrid.dll
+D:\PODJOF\POD.Logics\bin\Debug\SendGrid.SmtpApi.dll
+D:\PODJOF\POD.Logics\bin\Debug\SendGridMail.dll
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Text.Json.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Memory.dll
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Buffers.dll
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Text.Encodings.Web.dll
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Numerics.Vectors.dll
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PODJOF\POD.Logics\bin\Debug\System.Formats.Asn1.dll
+D:\PODJOF\POD.Logics\bin\Debug\POD.DAL.pdb
+D:\PODJOF\POD.Logics\bin\Debug\POD.DAL.dll.config
+D:\PODJOF\POD.Logics\bin\Debug\POD.Models.pdb
+D:\PODJOF\POD.Logics\bin\Debug\POD.Models.dll.config
+D:\PODJOF\POD.Logics\bin\Debug\Newtonsoft.Json.xml
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Text.Json.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Memory.xml
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Buffers.xml
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Text.Encodings.Web.xml
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Numerics.Vectors.xml
+D:\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PODJOF\POD.Logics\bin\Debug\System.Formats.Asn1.xml
+D:\PODJOF\POD.Logics\obj\Debug\POD.Logics.csproj.AssemblyReference.cache
+D:\PODJOF\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+D:\PODJOF\POD.Logics\obj\Debug\POD.Logics.csproj.Up2Date
+D:\PODJOF\POD.Logics\obj\Debug\POD.Logics.dll
+D:\PODJOF\POD.Logics\obj\Debug\POD.Logics.pdb
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.Logics.dll.config
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.Logics.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.Logics.pdb
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Newtonsoft.Json.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.DAL.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.Models.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\SendGrid.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\SendGrid.SmtpApi.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\SendGridMail.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Text.Json.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Memory.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Buffers.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Text.Encodings.Web.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Numerics.Vectors.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Formats.Asn1.dll
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.DAL.pdb
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.DAL.dll.config
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.Models.pdb
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\POD.Models.dll.config
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Newtonsoft.Json.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Text.Json.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Memory.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Buffers.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Text.Encodings.Web.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Numerics.Vectors.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Priyanshu\PODJOF\POD.Logics\bin\Debug\System.Formats.Asn1.xml
+C:\Priyanshu\PODJOF\POD.Logics\obj\Debug\POD.Logics.csproj.AssemblyReference.cache
+C:\Priyanshu\PODJOF\POD.Logics\obj\Debug\POD.Logics.csproj.CoreCompileInputs.cache
+C:\Priyanshu\PODJOF\POD.Logics\obj\Debug\POD.Logics.csproj.Up2Date
+C:\Priyanshu\PODJOF\POD.Logics\obj\Debug\POD.Logics.dll
+C:\Priyanshu\PODJOF\POD.Logics\obj\Debug\POD.Logics.pdb

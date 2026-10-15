@@ -1,0 +1,42 @@
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Models\bin\Release\POD.Models.dll
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Models\bin\Release\POD.Models.pdb
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Models\obj\Release\POD.Models.csprojResolveAssemblyReference.cache
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Models\obj\Release\POD.Models.dll
+D:\AVAMAR BACKUP\Projectes\Mobile apps\Service\PODWebAPI\POD.Models\obj\Release\POD.Models.pdb
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\bin\Release\POD.Models.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\bin\Release\POD.Models.pdb
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\bin\Release\Newtonsoft.Json.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\bin\Release\Newtonsoft.Json.xml
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\obj\Release\POD.Models.csproj.AssemblyReference.cache
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\obj\Release\POD.Models.csproj.CoreCompileInputs.cache
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\obj\Release\POD.Models.csproj.CopyComplete
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\obj\Release\POD.Models.dll
+D:\GIRIJESH\HOME\VVK\POS\PODWebApi\POD.Models\obj\Release\POD.Models.pdb
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\POD.Models.dll.config
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\POD.Models.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\POD.Models.pdb
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\EntityFramework.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\EntityFramework.SqlServer.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\Newtonsoft.Json.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\EntityFramework.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\EntityFramework.SqlServer.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\bin\Release\Newtonsoft.Json.xml
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\obj\Release\POD.Models.csproj.AssemblyReference.cache
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\obj\Release\POD.Models.csproj.CoreCompileInputs.cache
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\obj\Release\POD.Models.csproj.Up2Date
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\obj\Release\POD.Models.dll
+C:\ONS_CODE\PODJOFSTaggingV2\POD.Models\obj\Release\POD.Models.pdb
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\POD.Models.dll.config
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\POD.Models.dll
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\POD.Models.pdb
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\EntityFramework.dll
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\EntityFramework.SqlServer.dll
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\Newtonsoft.Json.dll
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\EntityFramework.xml
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\EntityFramework.SqlServer.xml
+C:\Priyanshu\PODJOF\POD.Models\bin\Release\Newtonsoft.Json.xml
+C:\Priyanshu\PODJOF\POD.Models\obj\Release\POD.Models.csproj.AssemblyReference.cache
+C:\Priyanshu\PODJOF\POD.Models\obj\Release\POD.Models.csproj.CoreCompileInputs.cache
+C:\Priyanshu\PODJOF\POD.Models\obj\Release\POD.Models.csproj.Up2Date
+C:\Priyanshu\PODJOF\POD.Models\obj\Release\POD.Models.dll
+C:\Priyanshu\PODJOF\POD.Models\obj\Release\POD.Models.pdb

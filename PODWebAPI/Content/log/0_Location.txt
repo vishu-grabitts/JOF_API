@@ -1,0 +1,136 @@
+********** 8/2/2022 12:19:23 PM **********
+Location OUTER SYNC : 4
+********** 8/2/2022 12:19:23 PM **********
+POST LOCATION : [{"id":434,"empid":1008,"latitude":"27.3252127","longitude":"83.4345698","isactive":1,"createdon":"02-Aug-2022 12:18:28","type":"FG","batterylevel":"71"},{"id":435,"empid":1008,"latitude":"27.3251689","longitude":"83.4345845","isactive":1,"createdon":"02-Aug-2022 12:18:47","type":"FG","batterylevel":"71"},{"id":436,"empid":1008,"latitude":"27.3252142","longitude":"83.4345775","isactive":1,"createdon":"02-Aug-2022 12:19:06","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:20:35 PM **********
+Location OUTER SYNC : 11
+********** 8/2/2022 12:20:35 PM **********
+POST LOCATION : [{"id":438,"empid":1008,"latitude":"27.3251726","longitude":"83.4345557","isactive":1,"createdon":"02-Aug-2022 12:19:23","type":"FG","batterylevel":"71"},{"id":439,"empid":1008,"latitude":"27.3251839","longitude":"83.4346053","isactive":1,"createdon":"02-Aug-2022 12:19:34","type":"FG","batterylevel":"71"},{"id":441,"empid":1008,"latitude":"27.3251373","longitude":"83.4345979","isactive":1,"createdon":"02-Aug-2022 12:19:45","type":"FG","batterylevel":"71"},{"id":443,"empid":1008,"latitude":"27.3251068","longitude":"83.4345347","isactive":1,"createdon":"02-Aug-2022 12:20:00","type":"FG","batterylevel":"71"},{"id":445,"empid":1008,"latitude":"27.3250872","longitude":"83.4344868","isactive":1,"createdon":"02-Aug-2022 12:20:03","type":"FG","batterylevel":"71"},{"id":447,"empid":1008,"latitude":"27.3250374","longitude":"83.4344705","isactive":1,"createdon":"02-Aug-2022 12:20:34","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:22:17 PM **********
+Location OUTER SYNC : 8
+********** 8/2/2022 12:22:17 PM **********
+POST LOCATION : [{"id":449,"empid":1008,"latitude":"27.3250677","longitude":"83.4345096","isactive":1,"createdon":"02-Aug-2022 12:20:43","type":"FG","batterylevel":"71"},{"id":451,"empid":1008,"latitude":"27.3251006","longitude":"83.4345475","isactive":1,"createdon":"02-Aug-2022 12:20:49","type":"FG","batterylevel":"71"},{"id":453,"empid":1008,"latitude":"27.3251393","longitude":"83.4345142","isactive":1,"createdon":"02-Aug-2022 12:21:22","type":"FG","batterylevel":"71"},{"id":455,"empid":1008,"latitude":"27.3251475","longitude":"83.4344632","isactive":1,"createdon":"02-Aug-2022 12:22:16","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:23:48 PM **********
+Location OUTER SYNC : 4
+********** 8/2/2022 12:23:48 PM **********
+POST LOCATION : [{"id":457,"empid":1008,"latitude":"27.3251683","longitude":"83.4345129","isactive":1,"createdon":"02-Aug-2022 12:23:06","type":"FG","batterylevel":"71"},{"id":459,"empid":1008,"latitude":"27.3251206","longitude":"83.4345349","isactive":1,"createdon":"02-Aug-2022 12:23:47","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:24:45 PM **********
+Location OUTER SYNC : 18
+********** 8/2/2022 12:24:45 PM **********
+POST LOCATION : [{"id":461,"empid":1008,"latitude":"27.3250788","longitude":"83.4345623","isactive":1,"createdon":"02-Aug-2022 12:23:50","type":"FG","batterylevel":"71"},{"id":463,"empid":1008,"latitude":"27.3250395","longitude":"83.4346043","isactive":1,"createdon":"02-Aug-2022 12:23:52","type":"FG","batterylevel":"71"},{"id":465,"empid":1008,"latitude":"27.3250159","longitude":"83.4346484","isactive":1,"createdon":"02-Aug-2022 12:23:56","type":"FG","batterylevel":"71"},{"id":467,"empid":1008,"latitude":"27.325061","longitude":"83.4346515","isactive":1,"createdon":"02-Aug-2022 12:24:00","type":"FG","batterylevel":"71"},{"id":469,"empid":1008,"latitude":"27.3251107","longitude":"83.4346761","isactive":1,"createdon":"02-Aug-2022 12:24:04","type":"FG","batterylevel":"71"},{"id":471,"empid":1008,"latitude":"27.3250823","longitude":"83.4347209","isactive":1,"createdon":"02-Aug-2022 12:24:12","type":"FG","batterylevel":"71"},{"id":473,"empid":1008,"latitude":"27.32504","longitude":"83.4346944","isactive":1,"createdon":"02-Aug-2022 12:24:17","type":"FG","batterylevel":"71"},{"id":475,"empid":1008,"latitude":"27.3250548","longitude":"83.434641","isactive":1,"createdon":"02-Aug-2022 12:24:22","type":"FG","batterylevel":"71"},{"id":477,"empid":1008,"latitude":"27.3250507","longitude":"83.4345851","isactive":1,"createdon":"02-Aug-2022 12:24:44","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:25:08 PM **********
+Location OUTER SYNC : 3
+********** 8/2/2022 12:25:08 PM **********
+POST LOCATION : [{"id":479,"empid":1008,"latitude":"27.3250719","longitude":"83.4345359","isactive":1,"createdon":"02-Aug-2022 12:24:54","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:26:34 PM **********
+Location OUTER SYNC : 15
+********** 8/2/2022 12:26:34 PM **********
+POST LOCATION : [{"id":482,"empid":1008,"latitude":"27.3250749","longitude":"83.4344836","isactive":1,"createdon":"02-Aug-2022 12:25:19","type":"FG","batterylevel":"71"},{"id":485,"empid":1008,"latitude":"27.3251103","longitude":"83.4344413","isactive":1,"createdon":"02-Aug-2022 12:25:34","type":"FG","batterylevel":"71"},{"id":488,"empid":1008,"latitude":"27.3250654","longitude":"83.434426","isactive":1,"createdon":"02-Aug-2022 12:25:41","type":"FG","batterylevel":"71"},{"id":491,"empid":1008,"latitude":"27.3250383","longitude":"83.4343782","isactive":1,"createdon":"02-Aug-2022 12:25:46","type":"FG","batterylevel":"71"},{"id":494,"empid":1008,"latitude":"27.3250249","longitude":"83.4344445","isactive":1,"createdon":"02-Aug-2022 12:26:32","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:28:35 PM **********
+Location OUTER SYNC : 10
+********** 8/2/2022 12:28:35 PM **********
+POST LOCATION : [{"id":497,"empid":1008,"latitude":"27.3250604","longitude":"83.4344951","isactive":1,"createdon":"02-Aug-2022 12:26:45","type":"FG","batterylevel":"71"},{"id":500,"empid":1008,"latitude":"27.3250406","longitude":"83.4345484","isactive":1,"createdon":"02-Aug-2022 12:26:56","type":"FG","batterylevel":"71"},{"id":503,"empid":1008,"latitude":"27.3250117","longitude":"83.4345058","isactive":1,"createdon":"02-Aug-2022 12:27:04","type":"FG","batterylevel":"71"},{"id":506,"empid":1008,"latitude":"27.325","longitude":"83.4344527","isactive":1,"createdon":"02-Aug-2022 12:27:25","type":"FG","batterylevel":"71"},{"id":509,"empid":1008,"latitude":"27.3250142","longitude":"83.4344029","isactive":1,"createdon":"02-Aug-2022 12:27:31","type":"FG","batterylevel":"71"},{"id":512,"empid":1008,"latitude":"27.3249854","longitude":"83.4344424","isactive":1,"createdon":"02-Aug-2022 12:28:08","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:30:03 PM **********
+Location OUTER SYNC : 12
+********** 8/2/2022 12:30:03 PM **********
+POST LOCATION : [{"id":515,"empid":1008,"latitude":"27.324983","longitude":"83.4344953","isactive":1,"createdon":"02-Aug-2022 12:28:22","type":"FG","batterylevel":"71"},{"id":518,"empid":1008,"latitude":"27.3250123","longitude":"83.4345397","isactive":1,"createdon":"02-Aug-2022 12:28:30","type":"FG","batterylevel":"71"},{"id":521,"empid":1008,"latitude":"27.3250269","longitude":"83.4345879","isactive":1,"createdon":"02-Aug-2022 12:29:20","type":"FG","batterylevel":"71"},{"id":524,"empid":1008,"latitude":"27.3250202","longitude":"83.4346414","isactive":1,"createdon":"02-Aug-2022 12:30:02","type":"FG","batterylevel":"71"}]
+********** 8/2/2022 12:31:49 PM **********
+Location OUTER SYNC : 9
+********** 8/9/2022 3:38:37 AM **********
+Location OUTER SYNC : 1
+********** 8/9/2022 3:38:37 AM **********
+POST LOCATION : [{"id":308,"empid":1016,"latitude":"27.3250585","longitude":"83.434597","isactive":1,"createdon":"09-Aug-2022 03:38:36","type":"FG","batterylevel":"32"}]
+********** 8/9/2022 3:48:50 AM **********
+Location OUTER SYNC : 1
+********** 8/9/2022 3:48:50 AM **********
+POST LOCATION : [{"id":309,"empid":1016,"latitude":"27.3250891","longitude":"83.4345114","isactive":1,"createdon":"09-Aug-2022 03:48:49","type":"FG","batterylevel":"33"}]
+********** 8/9/2022 3:49:55 AM **********
+Location OUTER SYNC : 1
+********** 8/9/2022 3:49:55 AM **********
+POST LOCATION : [{"id":310,"empid":1016,"latitude":"27.3250371","longitude":"83.4345403","isactive":1,"createdon":"09-Aug-2022 03:49:54","type":"FG","batterylevel":"33"}]
+********** 8/9/2022 3:58:40 AM **********
+Location OUTER SYNC : 1
+********** 8/9/2022 4:10:38 AM **********
+Location OUTER SYNC : 1
+********** 8/9/2022 4:10:38 AM **********
+POST LOCATION : [{"id":312,"empid":1016,"latitude":"27.3250284","longitude":"83.4345513","isactive":1,"createdon":"09-Aug-2022 04:10:37","type":"FG","batterylevel":"35"}]
+********** 8/9/2022 4:12:29 AM **********
+Location OUTER SYNC : 2
+********** 8/9/2022 4:12:29 AM **********
+POST LOCATION : [{"id":313,"empid":1016,"latitude":"27.3249858","longitude":"83.4345294","isactive":1,"createdon":"09-Aug-2022 04:11:12","type":"FG","batterylevel":"35"},{"id":314,"empid":1016,"latitude":"27.3250342","longitude":"83.4345724","isactive":1,"createdon":"09-Aug-2022 04:12:28","type":"FG","batterylevel":"35"}]
+********** 8/9/2022 4:13:27 AM **********
+Location OUTER SYNC : 1
+********** 8/9/2022 4:13:27 AM **********
+POST LOCATION : [{"id":315,"empid":1016,"latitude":"27.3249793","longitude":"83.434569","isactive":1,"createdon":"09-Aug-2022 04:13:26","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:18:34 AM **********
+Location OUTER SYNC : 1
+********** 8/9/2022 4:18:34 AM **********
+POST LOCATION : [{"id":316,"empid":1016,"latitude":"27.3250269","longitude":"83.4345594","isactive":1,"createdon":"09-Aug-2022 04:18:12","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:23:14 AM **********
+Location OUTER SYNC : 2
+********** 8/9/2022 4:23:14 AM **********
+POST LOCATION : [{"id":323,"empid":1016,"latitude":"27.3250314","longitude":"83.434558","isactive":1,"createdon":"09-Aug-2022 04:23:13","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:24:26 AM **********
+Location OUTER SYNC : 4
+********** 8/9/2022 4:25:28 AM **********
+Location OUTER SYNC : 4
+********** 8/9/2022 4:25:28 AM **********
+POST LOCATION : [{"id":329,"empid":1016,"latitude":"27.3249902","longitude":"83.4345725","isactive":1,"createdon":"09-Aug-2022 04:25:03","type":"FG","batterylevel":"36"},{"id":331,"empid":1016,"latitude":"27.3249375","longitude":"83.4346126","isactive":1,"createdon":"09-Aug-2022 04:25:27","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:26:33 AM **********
+Location OUTER SYNC : 3
+********** 8/9/2022 4:26:33 AM **********
+POST LOCATION : [{"id":333,"empid":1016,"latitude":"27.3249846","longitude":"83.4346154","isactive":1,"createdon":"09-Aug-2022 04:25:59","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:28:29 AM **********
+Location OUTER SYNC : 6
+********** 8/9/2022 4:28:29 AM **********
+POST LOCATION : [{"id":336,"empid":1016,"latitude":"27.3250301","longitude":"83.4346086","isactive":1,"createdon":"09-Aug-2022 04:26:53","type":"FG","batterylevel":"36"},{"id":339,"empid":1016,"latitude":"27.325002","longitude":"83.4345677","isactive":1,"createdon":"09-Aug-2022 04:28:28","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:29:43 AM **********
+POST LOCATION : [{"id":342,"empid":1016,"latitude":"27.3250421","longitude":"83.4345282","isactive":1,"createdon":"09-Aug-2022 04:29:42","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:29:43 AM **********
+Location OUTER SYNC : 3
+********** 8/9/2022 4:31:11 AM **********
+Location OUTER SYNC : 4
+********** 8/9/2022 4:31:11 AM **********
+POST LOCATION : [{"id":352,"empid":1016,"latitude":"27.3249714","longitude":"83.4345504","isactive":1,"createdon":"09-Aug-2022 04:31:10","type":"FG","batterylevel":"37"}]
+********** 8/9/2022 4:32:08 AM **********
+POST LOCATION : [{"id":356,"empid":1016,"latitude":"27.3249238","longitude":"83.434564","isactive":1,"createdon":"09-Aug-2022 04:31:49","type":"FG","batterylevel":"37"},{"id":360,"empid":1016,"latitude":"27.3249726","longitude":"83.4345986","isactive":1,"createdon":"09-Aug-2022 04:32:07","type":"FG","batterylevel":"37"}]
+********** 8/9/2022 4:33:15 AM **********
+Location OUTER SYNC : 8
+********** 8/9/2022 4:33:15 AM **********
+POST LOCATION : [{"id":364,"empid":1016,"latitude":"27.3250184","longitude":"83.4345981","isactive":1,"createdon":"09-Aug-2022 04:32:12","type":"FG","batterylevel":"37"},{"id":368,"empid":1016,"latitude":"27.3250491","longitude":"83.4345499","isactive":1,"createdon":"09-Aug-2022 04:33:14","type":"FG","batterylevel":"37"}]
+********** 8/9/2022 4:34:59 AM **********
+Location OUTER SYNC : 8
+********** 8/9/2022 4:34:59 AM **********
+POST LOCATION : [{"id":372,"empid":1016,"latitude":"27.3250992","longitude":"83.4345161","isactive":1,"createdon":"09-Aug-2022 04:33:40","type":"FG","batterylevel":"37"},{"id":376,"empid":1016,"latitude":"27.3251482","longitude":"83.4344701","isactive":1,"createdon":"09-Aug-2022 04:34:58","type":"FG","batterylevel":"37"}]
+********** 8/9/2022 4:39:51 AM **********
+Location OUTER SYNC : 24
+********** 8/9/2022 4:46:35 AM **********
+Location OUTER SYNC : 4
+********** 8/9/2022 4:46:35 AM **********
+POST LOCATION : [{"id":404,"empid":1016,"latitude":"27.3250543","longitude":"83.4346046","isactive":1,"createdon":"09-Aug-2022 04:45:16","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:54:33 AM **********
+Location OUTER SYNC : 4
+********** 8/9/2022 4:55:30 AM **********
+Location OUTER SYNC : 4
+********** 8/9/2022 4:55:30 AM **********
+POST LOCATION : [{"id":412,"empid":1016,"latitude":"27.3251262","longitude":"83.4346303","isactive":1,"createdon":"09-Aug-2022 04:55:29","type":"FG","batterylevel":"36"}]
+********** 8/9/2022 4:58:59 AM **********
+Location OUTER SYNC : 4
+********** 8/9/2022 4:58:59 AM **********
+POST LOCATION : [{"id":416,"empid":1016,"latitude":"27.3250734","longitude":"83.434608","isactive":1,"createdon":"09-Aug-2022 04:58:57","type":"FG","batterylevel":"36"}]
+********** 8/20/2022 12:36:07 AM **********
+Location OUTER SYNC : 13
+********** 8/20/2022 12:36:07 AM **********
+Location OUTER SYNC : 13
+********** 8/20/2022 12:36:07 AM **********
+POST LOCATION : [{"id":1470,"empid":1036,"latitude":"27.3250525","longitude":"83.4346022","isactive":1,"createdon":"20-Aug-2022 00:31:53","type":"FG","batterylevel":"49"},{"id":1476,"empid":1036,"latitude":"27.3250032","longitude":"83.4345948","isactive":1,"createdon":"20-Aug-2022 00:32:12","type":"FG","batterylevel":"49"}]
+********** 8/21/2022 4:49:49 PM **********
+Location OUTER SYNC : 1
+********** 8/21/2022 4:51:34 PM **********
+Location OUTER SYNC : 4
+********** 8/21/2022 4:51:34 PM **********
+POST LOCATION : [{"id":1738,"empid":1036,"latitude":"27.3251066","longitude":"83.4347144","isactive":1,"createdon":"21-Aug-2022 16:49:22","type":"FG","batterylevel":"25"},{"id":1739,"empid":1036,"latitude":"27.3250894","longitude":"83.4345942","isactive":1,"createdon":"21-Aug-2022 16:49:24","type":"FG","batterylevel":"25"},{"id":1740,"empid":1036,"latitude":"27.3250506","longitude":"83.434563","isactive":1,"createdon":"21-Aug-2022 16:49:29","type":"FG","batterylevel":"25"},{"id":1741,"empid":1036,"latitude":"27.3250654","longitude":"83.4345123","isactive":1,"createdon":"21-Aug-2022 16:51:29","type":"FG","batterylevel":"25"}]
+********** 8/21/2022 4:53:18 PM **********
+Location OUTER SYNC : 2
+********** 8/21/2022 4:53:18 PM **********
+POST LOCATION : [{"id":1742,"empid":1036,"latitude":"27.3250371","longitude":"83.4345679","isactive":1,"createdon":"21-Aug-2022 16:52:12","type":"FG","batterylevel":"26"},{"id":1743,"empid":1036,"latitude":"27.3250668","longitude":"83.4345228","isactive":1,"createdon":"21-Aug-2022 16:53:13","type":"FG","batterylevel":"26"}]
