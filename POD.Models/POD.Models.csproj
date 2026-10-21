@@ -52,6 +52,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BranchData.cs" />
+    <Compile Include="CustomerDetailVM.cs" />
+    <Compile Include="CustomerSaveVM.cs" />
     <Compile Include="Customer\CompanyDetailVM.cs" />
     <Compile Include="Customer\CustomerLoginResponseVM.cs" />
     <Compile Include="Customer\CustomerLoginVM.cs" />
@@ -59,12 +61,14 @@
     <Compile Include="Customer\SettingVM.cs" />
     <Compile Include="DeliveryLocationPayloadVM.cs" />
     <Compile Include="EmployeeLocationVM.cs" />
+    <Compile Include="GetCustomerDetailsResponseVM.cs" />
     <Compile Include="JobRequestMultiple.cs" />
     <Compile Include="LoginRequest.cs" />
     <Compile Include="LoginResponse.cs" />
     <Compile Include="LoginTokenResponse.cs" />
     <Compile Include="LoginUserModel.cs" />
     <Compile Include="SalesOrderRequest.cs" />
+    <Compile Include="SyncCustomerRequestVM.cs" />
     <Compile Include="SysSettingVM.cs" />
     <Compile Include="SysUserNotification.cs" />
     <Compile Include="UserLoginHistorySaveParameters.cs" />

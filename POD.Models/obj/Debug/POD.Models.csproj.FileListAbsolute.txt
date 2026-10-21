@@ -111,3 +111,17 @@ C:\Priyanshu\PODJOF\POD.Models\obj\Debug\POD.Models.csproj.CoreCompileInputs.cac
 C:\Priyanshu\PODJOF\POD.Models\obj\Debug\POD.Models.csproj.Up2Date
 C:\Priyanshu\PODJOF\POD.Models\obj\Debug\POD.Models.dll
 C:\Priyanshu\PODJOF\POD.Models\obj\Debug\POD.Models.pdb
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\POD.Models.dll.config
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\POD.Models.dll
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\POD.Models.pdb
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\EntityFramework.dll
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\EntityFramework.xml
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\obj\Debug\POD.Models.csproj.AssemblyReference.cache
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\obj\Debug\POD.Models.csproj.CoreCompileInputs.cache
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\obj\Debug\POD.Models.csproj.Up2Date
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\obj\Debug\POD.Models.dll
+C:\Users\sushr\Documents\GitHub\JOF_API\POD.Models\obj\Debug\POD.Models.pdb
